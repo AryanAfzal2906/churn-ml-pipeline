@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+mlruns/
+models/best_model.pkl
+data/raw_churn.csv
+venv/
